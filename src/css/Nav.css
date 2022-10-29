@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.mylink{
+    padding: 12px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: .3s linear;
+    color: black;
+}
+
+.mylink:hover{
+    /* background: #273b91; */
+    color: #fff;
+    transform: scale(1.1);
+}
+
+
+  

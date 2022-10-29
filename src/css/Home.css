@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-center-title{
+    font-size: 20px;
+    /* text-align: center; */
+    /* justify-content: center; */
+    align-items: center;
+    
+}
